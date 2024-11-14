@@ -1,13 +1,18 @@
 ### NAME: BALAJI J
 ## REGISTER NO. 212221243001
 ## Implementation of Text Summarization
-## Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques.
+## Aim: 
+To perform automatic text summarization using Natural Language Processing (NLP) techniques.
 
 ## Algorithm:
-## Step 1 Import necessary libraries for natural language processing tasks.
-## Step 2: Download NLTK resources, including the punkt tokenizer and stopwords.'
-## Step 3: Define Text Preprocessing Function to tokenize, remove stopwords, and perform stemming.
-## Step 4: Define the Text Summarization Function using a simple frequency-based approach.
+## Step 1 
+Import necessary libraries for natural language processing tasks.
+## Step 2: 
+Download NLTK resources, including the punkt tokenizer and stopwords.'
+## Step 3:
+Define Text Preprocessing Function to tokenize, remove stopwords, and perform stemming.
+## Step 4: 
+Define the Text Summarization Function using a simple frequency-based approach.
 - Calculate the frequency of each word in the preprocessed text.
 - Calculate a score for each sentence based on the sum of word frequencies.
 - Select the top N sentences with the highest scores to form the summary.
